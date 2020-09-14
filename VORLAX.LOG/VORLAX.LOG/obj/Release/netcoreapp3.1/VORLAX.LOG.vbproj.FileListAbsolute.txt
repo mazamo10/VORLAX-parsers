@@ -1,0 +1,12 @@
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\bin\Release\netcoreapp3.1\VORLAX.LOG.exe
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\bin\Release\netcoreapp3.1\VORLAX.LOG.deps.json
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\bin\Release\netcoreapp3.1\VORLAX.LOG.runtimeconfig.json
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\bin\Release\netcoreapp3.1\VORLAX.LOG.runtimeconfig.dev.json
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\bin\Release\netcoreapp3.1\VORLAX.LOG.dll
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\bin\Release\netcoreapp3.1\VORLAX.LOG.pdb
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\obj\Release\netcoreapp3.1\VORLAX.LOG.AssemblyInfoInputs.cache
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\obj\Release\netcoreapp3.1\VORLAX.LOG.AssemblyInfo.vb
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\obj\Release\netcoreapp3.1\VORLAX.LOG.vbproj.CoreCompileInputs.cache
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\obj\Release\netcoreapp3.1\VORLAX.LOG.dll
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\obj\Release\netcoreapp3.1\VORLAX.LOG.pdb
+C:\Users\Matthew Zamora\source\repos\VORLAX.LOG\VORLAX.LOG\obj\Release\netcoreapp3.1\VORLAX.LOG.genruntimeconfig.cache
