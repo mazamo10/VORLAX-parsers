@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VORLAX_DATA_PARSER/1.0.0": {
+        "dependencies": {
+          "Interop.Microsoft.Office.Interop.Excel": "1.9.0.0",
+          "Interop.VSLangProj2": "7.1.0.0",
+          "Interop.VSLangProj": "7.0.0.0",
+          "Interop.VSLangProj100": "10.0.0.0"
+        },
+        "runtime": {
+          "VORLAX_DATA_PARSER.dll": {}
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Excel/1.9.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "Interop.VSLangProj2/7.1.0.0": {
+        "runtime": {
+          "Interop.VSLangProj2.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        }
+      },
+      "Interop.VSLangProj/7.0.0.0": {
+        "runtime": {
+          "Interop.VSLangProj.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Interop.VSLangProj100/10.0.0.0": {
+        "runtime": {
+          "Interop.VSLangProj100.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VORLAX_DATA_PARSER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Interop.Excel/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.VSLangProj2/7.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.VSLangProj/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.VSLangProj100/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
