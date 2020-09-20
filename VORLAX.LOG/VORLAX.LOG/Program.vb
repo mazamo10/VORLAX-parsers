@@ -1,11 +1,8 @@
-
 Imports System.IO
-
 
 Module Program
     Sub Main()
         Read_CSV()
-
     End Sub
 
     Sub Read_CSV()
