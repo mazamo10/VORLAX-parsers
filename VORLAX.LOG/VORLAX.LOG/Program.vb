@@ -98,6 +98,10 @@ Module Program
                 ElseIf dataZone = 5 Then
                     If StrComp(TextLine_ns, "ENDOFCASE") = 0 Or InStr(TextLine_ns, "PANELNO.") <> 0 Then
                         dataZone = 0
+                    ElseIf InStr(TextLine_ns, "PANELNO.") <> 0 Then
+                        pan = Replace(TextLine_ns, "PANELNO.", "")
+                        fileName = CreateFileName(FileLocation, Mach, Alpha, Psi, pan)
+                        Console.WriteLine(fileName)
                     Else
                         FileWrite(fileName, TextLine)
                     End If
